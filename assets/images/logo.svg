@@ -1,0 +1,16 @@
+<svg width="193" height="52" viewBox="0 0 193 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Your existing clipPath and path elements -->
+    <defs>
+        <clipPath id="clip0_6_2">
+            <rect width="193" height="52" fill="white"/>
+        </clipPath>
+        <clipPath id="clip1_6_2">
+            <rect width="52" height="52" fill="white" transform="translate(-8.76955 24) rotate(-45)"/>
+        </clipPath>
+    </defs>
+
+    <!-- Replace the existing path with an image element -->
+    <image x="0" y="0" width="193" height="52" href="C:\Users\muzza\Downloads\tourly-master\tourly-master\readme-images\_e0ccac26-9c36-4be9-b8e1-9413202fa85b.svg" clip-path="url(#clip0_6_2)" />
+
+    <!-- Your existing group with clip-path and path elements for the stylized symbol or logo -->
+</svg>
